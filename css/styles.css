@@ -1,0 +1,36 @@
+.grayscale {
+    -webkit-filter: grayscale(100%);
+            filter: grayscale(100%);
+}
+
+.jumbotron {
+	margin-top: 50px;
+}
+
+.form {
+	margin-top: 50px;
+}
+
+#nav-img-container {
+	margin-top: 7px;
+	margin-bottom: 0;
+	padding: 1px;
+}
+
+#nav-img {
+	margin: 0 auto;
+	height: 33px;
+	width: 33px;
+}
+
+.view-users-img {
+	width: 120px;
+	height: 120px;
+	margin: 0 auto;
+}
+
+.user-container {
+	float: left;
+	margin-left: 75px;
+	margin-right: 25px;
+}
